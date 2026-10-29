@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文项目文档"
+  short_description: "依据项目事实生成中文协作规则与项目说明，支持已有文档合并与多 Agent 使用"
+  default_prompt: "使用 $repo-docs 探查当前项目，生成或更新中文 AGENTS.md 和 README.md，保留有效约定并核对命令与路径。"
